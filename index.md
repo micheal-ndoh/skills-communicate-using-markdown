@@ -17,4 +17,9 @@ git init .
 ```
 git add
 ```
-
+- [ ] go to pull request
+- [ ] Add an image
+- [ ] Commit changes on md file
+- [ ] add a code
+- [ ] commit changes on md file
+- [ ] add text file
